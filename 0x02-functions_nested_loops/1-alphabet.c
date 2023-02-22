@@ -13,5 +13,5 @@ while (c <= 'z')
 {
   putchar(c);
 }
- purchar('\n');
+ putchar('\n');
 }
