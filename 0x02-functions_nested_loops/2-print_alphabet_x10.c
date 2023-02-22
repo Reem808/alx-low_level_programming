@@ -21,7 +21,7 @@ c += 1;
 i += 1;
 putchar('\n');
 }
-
+}
 int main(void)
 {
 print_alphabet_x10();
